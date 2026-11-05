@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <!-- Permite bloquear la pantalla o forzar el bloqueo -->
+        <force-lock />
+        <!-- Permite establecer restricciones globales de políticas de dispositivos -->
+        <limit-password />
+        <!-- Permite reiniciar el dispositivo si fuera necesario -->
+        <!-- <watch-login /> -->
+    </uses-policies>
+</device-admin>

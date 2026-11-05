@@ -1,0 +1,23 @@
+# Android Studio / IntelliJ
+/.idea/
+.gradle/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build outputs
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+
+# google
+google-services.json
+
+# Built application files
+*.apk
+*.apks
+*.aab
