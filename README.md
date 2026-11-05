@@ -33,7 +33,7 @@ This repository contains the core foundation and public reference version of the
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Kromif/stribian-app-core.git](https://github.com/Kromif/stribian-app-core.git)
+   git clone https://github.com/Kromif/android-firestore-lock-poc
 
 2. Add your own google-services.json file inside the app/ directory (required for Firebase connectivity).
 
