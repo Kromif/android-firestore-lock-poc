@@ -1,4 +1,4 @@
-# StribianApp (Base Version)
+# Base Version to Block Device
 
 A native Android application developed in Kotlin, designed to showcase advanced mobile architecture concepts including **Android Enterprise (Device Owner)** integration and real-time synchronization with **Firebase Firestore**.
 
